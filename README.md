@@ -25,7 +25,7 @@
 ## 📱 Humse Raabta Karen (Connect With Us)
 
 <p align="center">
-  <a href="https://github.com/muzii-523/MUZAMMILMD-">
+  <a href="https://github.com/effilaraib2819-source/MRSLEGEND-2819.git">
     <img src="https://img.shields.io/badge/GitHub%20Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://whatsapp.com/channel/0029Vb60FhJJENyB8IOxRj1m">

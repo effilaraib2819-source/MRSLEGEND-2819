@@ -1,7 +1,7 @@
 FROM node:lts-buster
 
 # Clone bot from GitHub
-RUN git clone https://github.com/hissari-786/Muzammil-MD.git /root/muzammil-bot
+RUN git clone https://github.com/effilaraib2819-source/MRSLEGEND-2819.git /root/mrslegend-bot
 
 # Set working directory
 WORKDIR /root/arslan-bot

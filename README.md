@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://files.catbox.moe/80ntso.jpg" alt="MUZAMMIL-MD" width="1000"/>
+  <img src="https://h.uguu.se/PPRWFJwe.jpg" alt="MRSLEGEND-2819" width="1000"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&repeat=true&width=1000&height=100&lines=⚡+MUZAMMIL-MD+Powerful+Bot+⚡;Next+Gen+WhatsApp+AI+Bot;Fast+%7C+Secure+%7C+Multi-Device;Deploy+Now+and+Rule+🚀" alt="MUZAMMIL-MD Animated Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&repeat=true&width=1000&height=100&lines=⚡+MRSLEGEND-2819+Powerful+Bot+⚡;Next+Gen+WhatsApp+AI+Bot;Fast+%7C+Secure+%7C+Multi-Device;Deploy+Now+and+Rule+🚀" alt="MRSLEGEND-2819 Animated Banner" />
 </h1>
 
 ---

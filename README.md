@@ -9,13 +9,13 @@
 ---
 
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/muzii-523/MUZAMMILMD-">
+  <a href="https://github.com/effilaraib2819-source/MRSLEGEND-2819.git">
     <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-7952B3?style=for-the-badge&logo=heroku&logoColor=white" alt="Deploy to Heroku"/>
   </a>
-  <a href="https://muzammil-deploy-wm9j.vercel.app/">
+  <a href="https://MRSLEGEND-2819-deploy-wm9j.vercel.app/">
     <img src="https://img.shields.io/badge/Deploy%20Bot%20(Free%20VPS)-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Deploy Bot (Free VPS)"/>
   </a>
-  <a href="https://muzammil-pair-1.onrender.com/">
+  <a href="https://MRSLEGEND-2819-pair-1.onrender.com/">
     <img src="https://img.shields.io/badge/Get%20Pair%20Code-00C7B7?style=for-the-badge&logo=render&logoColor=white" alt="Pair Code"/>
   </a>
 </p>
@@ -35,9 +35,9 @@
 
 ---
 
-## ⚡ MUZAMMIL-MD Ke Baare Mein
+## ⚡ MRSLEGEND-2819 Ke Baare Mein
 
-> **MUZAMMIL-MD** ek **Next-Gen WhatsApp Multi-Device bot** hai jise
+> **MRSLEGEND-2819** ek **Next-Gen WhatsApp Multi-Device bot** hai jise
 > *zabardast features*, *tez tareen response* aur *stylish design* ke saath banaya gaya hai.
 
 ### ✨ Khaas Features:
@@ -50,13 +50,13 @@
 ## 👑 Owner Ka Number
 
 <p align="center">
-  <a href="https://wa.me/923138085055">
-    <img src="https://img.shields.io/badge/Owner%20Contact-923138085055-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/923494019720">
+    <img src="https://img.shields.io/badge/Owner%20Contact-923494019720-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>© Powered By MUZAMMIL-MD 🤖</b>
+  <b>© Powered By MRSLEGEND-2819 🤖</b>
 </p>

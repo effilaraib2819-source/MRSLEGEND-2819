@@ -28,7 +28,7 @@
   <a href="https://github.com/muzii-523/MUZAMMILMD-">
     <img src="https://img.shields.io/badge/GitHub%20Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://whatsapp.com/channel/0029Vb6Qyym7YSd3VRCxxQ1B">
+  <a href="https://whatsapp.com/channel/0029Vb60FhJJENyB8IOxRj1m">
     <img src="https://img.shields.io/badge/WhatsApp%20Channel-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>

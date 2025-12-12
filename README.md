@@ -1,7 +1,7 @@
 # MRSLEGEND-2819
 MRSLEGEND_2819 world best devolper
 <p align="center">
-  <img src="[[https://files.catbox.moe/3014ic.jpg](https://files.catbox.moe/y8dvuf.jpg)](https://files.catbox.moe/y8dvuf.jpg)" alt="MRSLEGEND_2819" width="1000"/>
+  <img src="[[[https://files.catbox.moe/y8dvuf.jpg](https://files.catbox.moe/y8dvuf.jpg)](https://files.catbox.moe/y8dvuf.jpg)](https://files.catbox.moe/y8dvuf.jpg)" alt="MRSLEGEND_2819" width="1000"/>
 </p>
 
 <h1 align="center">
@@ -17,13 +17,13 @@ MRSLEGEND_2819 world best devolper
 # 〘 MRSLEGEND_2819 〙    
 > ✨ Ultra Pro Max WhatsApp Bot — MRSLEGEND_2819 ✨    
 
-<a href="https://github.com/Boss453-dev/Boss-md-Ai-BOT"><img title="Author" src="https://img.shields.io/badge/BOSS-MD-black?style=for-the-badge&logo=Github"></a>
-<a href="https://wa.me/923487690170"><img title="Contact" src="https://img.shields.io/badge/Contact-Owner-25D366?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/effilaraib2819-source/MRSLEGEND-2819.git"><img title="Author" src="https://img.shields.io/badge/MRSLEGEND-2819-black?style=for-the-badge&logo=Github"></a>
+<a href="https://wa.me/923494019720"><img title="Contact" src="https://img.shields.io/badge/Contact-Owner-25D366?style=for-the-badge&logo=whatsapp"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <h1 align="center">  
-  <img src="https://files.catbox.moe/3014ic" alt="BOSS-MD" width="800" style="border-radius:25px;box-shadow:0 0 30px violet;"/>
+  <img src="https://files.catbox.moe/y8dvuf.jpg" alt="MRSLEGEND-2819" width="800" style="border-radius:25px;box-shadow:0 0 30px violet;"/>
 </h1>  
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>  

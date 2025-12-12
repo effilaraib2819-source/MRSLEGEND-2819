@@ -34,12 +34,12 @@ MRSLEGEND_2819 world best devolper
                color: transparent;   
                font-size: 45px;   
                font-weight: bold;">
-    ✨ 𝐁𝐎𝐒𝐒-𝐌𝐃 ✨
+    ✨ MRSLEGEND-2819 ✨
   </span>  
 </h1>  
 
 <p align="center">  
-  <b>A multi-device WhatsApp bot maintained by <span style="color:#00FFFF">BOSS</span> 🚀</b>  
+  <b>A multi-device WhatsApp bot maintained by <span style="color:#00FFFF">MRSLEGEND</span> 🚀</b>  
 </p>  
 
 ---  
@@ -79,10 +79,10 @@ MRSLEGEND_2819 world best devolper
 
 ## 📡 WHATSAPP CONNECTS  
 <p align="center">  
-  <a href="https://whatsapp.com/channel/0029VbC19OTHFxP2mYyAMy1G">  
+  <a href="https://whatsapp.com/channel/0029Vb68jsVDuMRjNEdEwa3b">  
     <img src="https://img.shields.io/badge/Join-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />  
   </a>  
-  <a href="https://api.whatsapp.com/send?phone=+923487690170&text=Hello">  
+  <a href="https://api.whatsapp.com/send?phone=+923494019720&text=Hello">  
     <img src="https://img.shields.io/badge/Contact-Owner-ff0000?style=for-the-badge&logo=whatsapp&logoColor=white" />  
   </a>  
 </p>  
@@ -112,5 +112,5 @@ Do not sell, misuse, or use without giving credits.
 ---  
 
 <h2 align="center">  
-  🌈✨ Thanks for using <span style="color:#00FFFF">BOSS-MD</span> ✨🌈  
+  🌈✨ Thanks for using <span style="color:#00FFFF">MRSLEGEND-2819</span> ✨🌈  
 </h2>

@@ -1,8 +1,16 @@
 # MRSLEGEND-2819
 MRSLEGEND_2819 world best devolper
-<p align="center">
-  <img src="[[[https://files.catbox.moe/h0y0h9.jpg](https://files.catbox.moe/h0y0h9.jpg)](https://files.catbox.moe/h0y0h9.jpg)](https://files.catbox.moe/h0y0h9.jpg)" alt="MRSLEGEND_2819" width="1000"/>
-</p>
+<!-- ANIMATED FLOATING HEADER -->
+<div align="center">
+  
+<!-- GLOWING DIVIDER -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&width=800&height=50&lines=🚀+WELCOME+TO+MRS-LEGEND_2819+🚀" alt="Animated Header">
+
+</div>
+
+-------
+
+[![Ghost_X AI](https://raw.githubusercontent.com/Ghost_x/Mrs-Legend-Rajpoot/main/assets/mr.svg)](https://whatsapp.com/channel/0029Vb60FhJJENyB8IOxRj1m)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&repeat=true&width=1000&height=100&lines=⚡+MRSLEGEND_2819D+Powerful+Bot+⚡;Next+Gen+WhatsApp+AI+Bot;Fast+%7C+Secure+%7C+Multi-Device;Deploy+Now+and+Rule+🚀" alt="MRSLEGEND_2819 Animated Banner" />

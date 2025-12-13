@@ -2,13 +2,13 @@
 <div align="center">
   
 <!-- GLOWING DIVIDER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&width=800&height=50&lines=🚀+WELCOME+TO+ARSLAN-TECH-BOT+🚀" alt="Animated Header">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&width=800&height=50&lines=🚀+WELCOME+TO+MRS-LEGEND RAJPOOT+🚀" alt="Animated Header">
 
 </div>
 
 -------
 
-[![Arslan-Tech](https://raw.githubusercontent.com/Arslan-MD/Arslan-Tech-Bot/main/assets/mr.svg)](https://whatsapp.com/channel/0029VarfjW04tRrmwfb8x306)
+[![MRS-LEGEND](https://raw.githubusercontent.com/Mrs-Legend/Mrs-Legend-Rajpoot/main/assets/mr.svg)](https://whatsapp.com/channel/0029VarfjW04tRrmwfb8x306)
 
 
 -------------

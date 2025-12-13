@@ -90,7 +90,7 @@
 
   <!-- Enhanced title text with multiple animations -->
   <text x="50%" y="90" text-anchor="middle" font-size="42" font-family="Segoe UI, Verdana, sans-serif" fill="url(#rainbow)" filter="url(#glow)">
-    𓅓 ARSLAN-TECH-BOT 𓅓
+    𓅓 MRS-LEGEND RAJPOOT 𓅓
     <animateTransform attributeName="transform" type="scale" values="1;1.03;1" dur="3s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="1;0.8;1" dur="2s" repeatCount="indefinite"/>
   </text>
@@ -112,14 +112,14 @@
 
   <!-- Enhanced center text with glow -->
   <text x="300" y="215" text-anchor="middle" font-size="52" font-weight="bold" font-family="Segoe UI, Verdana, sans-serif" fill="url(#rainbow)" filter="url(#glow)">
-    ATB
+    MLR
     <animate attributeName="opacity" values="1;0.3;1" dur="4s" repeatCount="indefinite"/>
     <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="3s" repeatCount="indefinite"/>
   </text>
 
   <!-- Enhanced footer text -->
   <text x="50%" y="360" text-anchor="middle" font-size="20" font-family="Segoe UI, Verdana, sans-serif" fill="url(#rainbow)" filter="url(#glow)">
-    ➪ CREATED BY ARSLAN-MD OFFICIAL ☢︎︎
+    ➪ CREATED BY MRS-LEGEND-RAJPOOT OFFICIAL ☢︎︎
     <animate attributeName="opacity" values="1;0.7;1" dur="2.5s" repeatCount="indefinite"/>
   </text>
 

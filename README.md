@@ -1,5 +1,3 @@
-# MRSLEGEND-2819
-MRSLEGEND_2819 world best devolper
 <!-- ANIMATED FLOATING HEADER -->
 <div align="center">
   
@@ -10,7 +8,7 @@ MRSLEGEND_2819 world best devolper
 
 -------
 
-[![Ghost_X AI](https://raw.githubusercontent.com/Ghost_x/Mrs-Legend-Rajpoot/main/assets/mr.svg)](https://whatsapp.com/channel/0029Vb60FhJJENyB8IOxRj1m)
+[![Ghost_X AI](https://raw.githubusercontent.com/Mrs-Legend/Mrs-Legend-Rajpoot/main/assets/mr.svg)](https://whatsapp.com/channel/0029Vb60FhJJENyB8IOxRj1m)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&repeat=true&width=1000&height=100&lines=⚡+MRSLEGEND_2819D+Powerful+Bot+⚡;Next+Gen+WhatsApp+AI+Bot;Fast+%7C+Secure+%7C+Multi-Device;Deploy+Now+and+Rule+🚀" alt="MRSLEGEND_2819 Animated Banner" />
